@@ -7,7 +7,7 @@ The code in this toolbox implements ["Fault Detection for Non-Gaussian Processes
 Directly run demo_SJSNMF.m for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{sun2021learning,
       title     = {Fault Detection for Non-Gaussian Processes Using Structured Joint Sparse Nonnegative Matrix Factorization},
