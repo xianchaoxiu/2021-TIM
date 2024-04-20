@@ -1,5 +1,5 @@
 # SJSNMF
-The code in this toolbox implements ["Fault Detection for Non-Gaussian Processes Using Structured Joint Sparse Nonnegative Matrix Factorization"](https://ieeexplore.ieee.org/abstract/document/9381237) by <i>X. Xiu, J. Fan, Y. Yang, W. Liu<i>.
+The code in this toolbox implements ["Fault Detection for Non-Gaussian Processes Using Structured Joint Sparse Nonnegative Matrix Factorization"](https://ieeexplore.ieee.org/abstract/document/9381237) by <i>X. Xiu, J. Fan, Y. Yang, W. Liu</i>.
 
 
 
